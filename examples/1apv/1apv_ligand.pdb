@@ -1,0 +1,161 @@
+HETATM    1  CA  IVA     1      16.019   4.553  17.934  1.00  0.00           C
+HETATM    2  CB  IVA     1      14.799   3.916  18.582  1.00  0.00           C
+HETATM    3  CG1 IVA     1      14.321   4.918  19.641  1.00  0.00           C
+HETATM    4  CG2 IVA     1      13.719   3.618  17.574  1.00  0.00           C
+HETATM    5  C   IVA     1      17.130   4.803  18.966  1.00  0.00           C
+HETATM    6  O   IVA     1      17.160   4.162  20.051  1.00  0.00           O
+HETATM    7  N   IVA     1      18.000   5.703  18.594  1.00  0.00           N
+HETATM    8  CA  IVA     1      19.174   6.002  19.466  1.00  0.00           C
+HETATM    9  C   IVA     1      19.078   7.387  20.105  1.00  0.00           C
+HETATM   10  O   IVA     1      18.236   8.186  19.666  1.00  0.00           O
+HETATM   11  CB  IVA     1      20.405   5.871  18.545  1.00  0.00           C
+HETATM   12  CG1 IVA     1      20.514   4.498  17.872  1.00  0.00           C
+HETATM   13  CG2 IVA     1      20.394   6.966  17.488  1.00  0.00           C
+HETATM   14  N   IVA     1      19.933   7.529  21.086  1.00  0.00           N
+HETATM   15  CA  IVA     1      19.971   8.840  21.849  1.00  0.00           C
+HETATM   16  C   IVA     1      21.475   9.163  22.048  1.00  0.00           C
+HETATM   17  O   IVA     1      22.028   8.527  22.938  1.00  0.00           O
+HETATM   18  CB  IVA     1      19.219   8.739  23.169  1.00  0.00           C
+HETATM   19  CG1 IVA     1      19.183  10.155  23.836  1.00  0.00           C
+HETATM   20  CG2 IVA     1      17.809   8.240  23.119  1.00  0.00           C
+HETATM   21  N   IVA     1      22.006  10.066  21.212  1.00  0.00           N
+HETATM   22  CA  IVA     1      23.439  10.380  21.309  1.00  0.00           C
+HETATM   23  CB  IVA     1      24.062   9.919  19.965  1.00  0.00           C
+HETATM   24  CG  IVA     1      23.796   8.495  19.525  1.00  0.00           C
+HETATM   25  CD1 IVA     1      24.387   8.228  18.150  1.00  0.00           C
+HETATM   26  CD2 IVA     1      24.446   7.454  20.483  1.00  0.00           C
+HETATM   27  CH  IVA     1      23.638  11.888  21.511  1.00  0.00           C
+HETATM   28  OH  IVA     1      22.891  12.611  20.476  1.00  0.00           O
+HETATM   29  CM  IVA     1      23.228  12.482  22.893  1.00  0.00           C
+HETATM   30  C   IVA     1      24.317  12.108  23.970  1.00  0.00           C
+HETATM   31  O   IVA     1      24.307  11.000  24.535  1.00  0.00           O
+HETATM   32  OH1 IVA     1      25.019  12.123  21.417  1.00  0.00           O
+HETATM   33  F1  IVA     1      22.075  11.982  23.242  1.00  0.00           F
+HETATM   34  F2  IVA     1      23.105  13.810  22.838  1.00  0.00           F
+HETATM   35  N   IVA     1      25.193  13.057  24.175  1.00  0.00           N
+HETATM   36  CH3 IVA     1      26.323  12.917  25.130  1.00  0.00           C
+HETATM   37  H1  IVA     1      15.726   5.513  17.483  1.00  0.00           H
+HETATM   38  H2  IVA     1      16.401   3.881  17.151  1.00  0.00           H
+HETATM   39  H3  IVA     1      15.090   2.974  19.069  1.00  0.00           H
+HETATM   40  H4  IVA     1      13.434   4.516  20.152  1.00  0.00           H
+HETATM   41  H5  IVA     1      14.064   5.871  19.155  1.00  0.00           H
+HETATM   42  H6  IVA     1      15.123   5.086  20.376  1.00  0.00           H
+HETATM   43  H7  IVA     1      14.097   2.898  16.833  1.00  0.00           H
+HETATM   44  H8  IVA     1      13.426   4.548  17.065  1.00  0.00           H
+HETATM   45  H9  IVA     1      12.846   3.190  18.088  1.00  0.00           H
+HETATM   46  H10 IVA     1      17.880   6.190  17.729  1.00  0.00           H
+HETATM   47  H11 IVA     1      19.235   5.255  20.271  1.00  0.00           H
+HETATM   48  H12 IVA     1      21.301   6.007  19.169  1.00  0.00           H
+HETATM   49  H13 IVA     1      21.409   4.473  17.233  1.00  0.00           H
+HETATM   50  H14 IVA     1      19.620   4.319  17.257  1.00  0.00           H
+HETATM   51  H15 IVA     1      20.592   3.717  18.643  1.00  0.00           H
+HETATM   52  H16 IVA     1      20.316   7.948  17.978  1.00  0.00           H
+HETATM   53  H17 IVA     1      19.534   6.821  16.818  1.00  0.00           H
+HETATM   54  H18 IVA     1      21.325   6.921  16.904  1.00  0.00           H
+HETATM   55  H19 IVA     1      20.553   6.783  21.329  1.00  0.00           H
+HETATM   56  H20 IVA     1      19.504   9.632  21.246  1.00  0.00           H
+HETATM   57  H21 IVA     1      19.788   8.052  23.813  1.00  0.00           H
+HETATM   58  H22 IVA     1      18.642  10.096  24.792  1.00  0.00           H
+HETATM   59  H23 IVA     1      18.671  10.862  23.167  1.00  0.00           H
+HETATM   60  H24 IVA     1      20.211  10.501  24.018  1.00  0.00           H
+HETATM   61  H25 IVA     1      17.789   7.243  22.655  1.00  0.00           H
+HETATM   62  H26 IVA     1      17.196   8.933  22.525  1.00  0.00           H
+HETATM   63  H27 IVA     1      17.406   8.177  24.141  1.00  0.00           H
+HETATM   64  H28 IVA     1      21.434  10.521  20.530  1.00  0.00           H
+HETATM   65  H29 IVA     1      23.895   9.835  22.148  1.00  0.00           H
+HETATM   66  H30 IVA     1      25.152  10.040  20.048  1.00  0.00           H
+HETATM   67  H31 IVA     1      23.678  10.585  19.178  1.00  0.00           H
+HETATM   68  H32 IVA     1      22.708   8.337  19.497  1.00  0.00           H
+HETATM   69  H33 IVA     1      24.179   7.188  17.857  1.00  0.00           H
+HETATM   70  H34 IVA     1      25.475   8.389  18.181  1.00  0.00           H
+HETATM   71  H35 IVA     1      23.935   8.913  17.417  1.00  0.00           H
+HETATM   72  H36 IVA     1      24.055   7.598  21.501  1.00  0.00           H
+HETATM   73  H37 IVA     1      25.538   7.591  20.487  1.00  0.00           H
+HETATM   74  H38 IVA     1      24.205   6.438  20.138  1.00  0.00           H
+HETATM   75  H39 IVA     1      23.043  13.544  20.571  1.00  0.00           H
+HETATM   76  H40 IVA     1      25.331  11.835  20.567  1.00  0.00           H
+HETATM   77  H41 IVA     1      25.099  13.914  23.668  1.00  0.00           H
+HETATM   78  H42 IVA     1      26.920  13.841  25.130  1.00  0.00           H
+HETATM   79  H43 IVA     1      26.957  12.071  24.827  1.00  0.00           H
+HETATM   80  H44 IVA     1      25.929  12.736  26.141  1.00  0.00           H
+CONECT    5    6    1    7
+CONECT    9    8   10   14
+CONECT   16   15   17   21
+CONECT   30   29   31   35
+CONECT    1   37    5   38    2
+CONECT    8   11    7   47    9
+CONECT   15   56   18   14   16
+CONECT   22   65   21   23   27
+CONECT    2    4   39    1    3
+CONECT   11   48    8   13   12
+CONECT   18   15   19   20   57
+CONECT   23   67   66   24   22
+CONECT   25   69   24   70   71
+CONECT   26   24   72   73   74
+CONECT   24   68   25   26   23
+CONECT    3   40   42   41    2
+CONECT   12   49   50   11   51
+CONECT   19   59   60   18   58
+CONECT    4   43    2   44   45
+CONECT   13   53   54   52   11
+CONECT   20   61   18   63   62
+CONECT   27   22   29   28   32
+CONECT   36   80   79   78   35
+CONECT   29   34   30   33   27
+CONECT   33   29
+CONECT   34   29
+CONECT   37    1
+CONECT   46    7
+CONECT   47    8
+CONECT   48   11
+CONECT   49   12
+CONECT   50   12
+CONECT   51   12
+CONECT   52   13
+CONECT   53   13
+CONECT   54   13
+CONECT   55   14
+CONECT   38    1
+CONECT   56   15
+CONECT   57   18
+CONECT   58   19
+CONECT   59   19
+CONECT   60   19
+CONECT   61   20
+CONECT   62   20
+CONECT   63   20
+CONECT   64   21
+CONECT   65   22
+CONECT   39    2
+CONECT   66   23
+CONECT   67   23
+CONECT   68   24
+CONECT   69   25
+CONECT   70   25
+CONECT   71   25
+CONECT   72   26
+CONECT   73   26
+CONECT   74   26
+CONECT   75   28
+CONECT   40    3
+CONECT   76   32
+CONECT   77   35
+CONECT   78   36
+CONECT   79   36
+CONECT   80   36
+CONECT   41    3
+CONECT   42    3
+CONECT   43    4
+CONECT   44    4
+CONECT   45    4
+CONECT    7    8    5   46
+CONECT   14   55   15    9
+CONECT   21   22   64   16
+CONECT   35   30   77   36
+CONECT    6    5
+CONECT   10    9
+CONECT   17   16
+CONECT   31   30
+CONECT   28   75   27
+CONECT   32   76   27
+END
