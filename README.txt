@@ -24,6 +24,7 @@
    - imc_cnn: Generating IMC representations and training an IMC-CNN PLBAP model.
    - grid_cnn: Generating grid representations and training a GRID-CNN PLBAP model.
    - graph_gcn: Generating graph representations and training a GRAPH-GCN PLBAP model.
+   - AGIMA_Score: Generating atomic graph representations with inter-molecular adjacency, and training an AGIMA-Score model.
 
 3. Data downloading and preprocessing
 	(1) Downloading:
