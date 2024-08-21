@@ -49,6 +49,7 @@
    (1) Starting from a data folder, we can first extract the atom properties for each complex in this data set. This saves much time in the model-construction process.
        - Import ComProp class from the atmprop_extra_ob package, and generate the atom properties for a given complex using customized parameters.
          A text file will be created in order to store the atom properties (e.g. '1a9m_atm_prop.txt').
+       - For easier access, these atom property files have been deposited in Zenodo (DOI of https://doi.org/10.5281/zenodo.13352486). They can be used directly for representation learning and model construction.
    (2) Generate molecular representations (e.g. grids or graphs):
        - Import the feature representation class (e.g. feature_engineering_GCN) from the corresponding package (e.g. graph_gcn), and generate the representations to be learned by deep-learning models.
          You can save the generated tensors (representations) using hickle, such as 'Xtrain_gzip.hkl' and 'ytrain_gzip.hkl' for the data set, for easier training of multiple models later.
